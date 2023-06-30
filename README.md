@@ -7,7 +7,7 @@
 ### About me 👀
 
  - ✈️ Enjoy traveling, meeting new people and experiencing new things
- - 🍜 Loove all things related to foodfood
+ - 🍜 Loove all things related to food
  - 🤩 Can be hyped about anything and everything (e.g. history, flowers, that new series you wanted to watch...)
  - 📚 Always down to learn more about algorithms and the ✨beauty of maths✨
  - ⚛️ Overall, just very passionate about all things quantum

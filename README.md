@@ -1,7 +1,7 @@
 # Hii :wave:, I am Fiona 🥰 
  - A computer science master student [@TUM](https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc)
  - A research assistant, working on security for quantum computers (e.g. blind quantum computing) [@Fraunhofer-AISEC](https://www.aisec.fraunhofer.de/en.html)
- - Currently studying fermionic tree tensor networks [@TUM-CS](https://www5.in.tum.de/~quanTUMcomputing/people.html)
+ - Currently studying fermionic tree tensor networks [@TUM-QC](https://www5.in.tum.de/~quanTUMcomputing/people.html)
  - Pronouns: she/her
 
 ### About me 👀
@@ -23,6 +23,8 @@
 
 <!--
 **fiyoooo/fiyoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+template: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Sreevishnu-ux.md?plain=1
+ideas: https://github.com/EmilianoG-byte/
 
 Here are some ideas to get you started:
 
@@ -35,3 +37,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Technologies used
+
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+

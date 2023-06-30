@@ -6,6 +6,12 @@
 
 ### About me 👀
 
+ - ✈️ Enjoy traveling, meeting new people and experiencing new things
+ - 🍜 Loove all things related to foodfood
+ - 🤩 Can be hyped about anything and everything (e.g. history, flowers, that new series you wanted to watch...)
+ - 📚 Always down to learn more about algorithms and the ✨beauty of maths✨
+ - ⚛️ Overall, just very passionate about all things quantum
+
 <br>
 <h3 align="center" > Connect with me 🤝 </h3>
 <p align="center">

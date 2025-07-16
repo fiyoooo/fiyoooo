@@ -1,9 +1,9 @@
 # Hii :wave:, I am Fiona 🥰 
  - A computer science master student [@TUM](https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc)
- - A research assistant, working on security for quantum computers (e.g. blind quantum computing) [@Fraunhofer-AISEC](https://www.aisec.fraunhofer.de/en.html)
- - Currently studying fermionic tree tensor networks [@TUM-QC](https://www5.in.tum.de/~quanTUMcomputing/people.html)
+ - A research assistant, working on quantum circuit cutting [@Fraunhofer-IIS](https://www.iis.fraunhofer.de/en.html)
  - Pronouns: she/her
-
+<!-- - Currently studying fermionic tree tensor networks [@TUM-QC](https://www5.in.tum.de/~quanTUMcomputing/people.html)-->
+ 
 ### About me 👀
 
  - ✈️ Enjoy traveling, meeting new people and experiencing new things
